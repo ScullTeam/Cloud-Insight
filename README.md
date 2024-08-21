@@ -2,7 +2,7 @@
 
 ![Screenshot_1](https://i.ibb.co/n6FXWXz/screenshot.jpg)
 
-# ☁️Cloud Insight
+# ☁️Cloud Insight☁️
 
 **Installation**
 ```
