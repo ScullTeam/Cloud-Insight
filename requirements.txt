@@ -1,0 +1,7 @@
+flet==0.9.0
+aiohttp==3.8.4
+colorama
+pystyle
+requests
+fake_useragent
+termcolor
